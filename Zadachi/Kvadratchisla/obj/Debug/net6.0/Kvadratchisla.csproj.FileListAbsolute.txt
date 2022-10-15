@@ -1,0 +1,15 @@
+G:\Git out\C#Siminar1\Zadachi\Kvadratchisla\bin\Debug\net6.0\Kvadratchisla.exe
+G:\Git out\C#Siminar1\Zadachi\Kvadratchisla\bin\Debug\net6.0\Kvadratchisla.deps.json
+G:\Git out\C#Siminar1\Zadachi\Kvadratchisla\bin\Debug\net6.0\Kvadratchisla.runtimeconfig.json
+G:\Git out\C#Siminar1\Zadachi\Kvadratchisla\bin\Debug\net6.0\Kvadratchisla.dll
+G:\Git out\C#Siminar1\Zadachi\Kvadratchisla\bin\Debug\net6.0\Kvadratchisla.pdb
+G:\Git out\C#Siminar1\Zadachi\Kvadratchisla\obj\Debug\net6.0\Kvadratchisla.csproj.AssemblyReference.cache
+G:\Git out\C#Siminar1\Zadachi\Kvadratchisla\obj\Debug\net6.0\Kvadratchisla.GeneratedMSBuildEditorConfig.editorconfig
+G:\Git out\C#Siminar1\Zadachi\Kvadratchisla\obj\Debug\net6.0\Kvadratchisla.AssemblyInfoInputs.cache
+G:\Git out\C#Siminar1\Zadachi\Kvadratchisla\obj\Debug\net6.0\Kvadratchisla.AssemblyInfo.cs
+G:\Git out\C#Siminar1\Zadachi\Kvadratchisla\obj\Debug\net6.0\Kvadratchisla.csproj.CoreCompileInputs.cache
+G:\Git out\C#Siminar1\Zadachi\Kvadratchisla\obj\Debug\net6.0\Kvadratchisla.dll
+G:\Git out\C#Siminar1\Zadachi\Kvadratchisla\obj\Debug\net6.0\refint\Kvadratchisla.dll
+G:\Git out\C#Siminar1\Zadachi\Kvadratchisla\obj\Debug\net6.0\Kvadratchisla.pdb
+G:\Git out\C#Siminar1\Zadachi\Kvadratchisla\obj\Debug\net6.0\Kvadratchisla.genruntimeconfig.cache
+G:\Git out\C#Siminar1\Zadachi\Kvadratchisla\obj\Debug\net6.0\ref\Kvadratchisla.dll
