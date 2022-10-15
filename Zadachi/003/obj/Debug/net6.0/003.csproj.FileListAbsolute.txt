@@ -1,0 +1,5 @@
+G:\Git out\C#Siminar1\Zadachi\003\obj\Debug\net6.0\003.csproj.AssemblyReference.cache
+G:\Git out\C#Siminar1\Zadachi\003\obj\Debug\net6.0\003.GeneratedMSBuildEditorConfig.editorconfig
+G:\Git out\C#Siminar1\Zadachi\003\obj\Debug\net6.0\003.AssemblyInfoInputs.cache
+G:\Git out\C#Siminar1\Zadachi\003\obj\Debug\net6.0\003.AssemblyInfo.cs
+G:\Git out\C#Siminar1\Zadachi\003\obj\Debug\net6.0\003.csproj.CoreCompileInputs.cache
