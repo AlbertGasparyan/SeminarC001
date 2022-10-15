@@ -1,0 +1,15 @@
+G:\Git out\C#Siminar1\Zadachi\Kvadrat\obj\Debug\net6.0\Kvadrat.csproj.AssemblyReference.cache
+G:\Git out\C#Siminar1\Zadachi\Kvadrat\obj\Debug\net6.0\Kvadrat.GeneratedMSBuildEditorConfig.editorconfig
+G:\Git out\C#Siminar1\Zadachi\Kvadrat\obj\Debug\net6.0\Kvadrat.AssemblyInfoInputs.cache
+G:\Git out\C#Siminar1\Zadachi\Kvadrat\obj\Debug\net6.0\Kvadrat.AssemblyInfo.cs
+G:\Git out\C#Siminar1\Zadachi\Kvadrat\obj\Debug\net6.0\Kvadrat.csproj.CoreCompileInputs.cache
+G:\Git out\C#Siminar1\Zadachi\Kvadrat\bin\Debug\net6.0\Kvadrat.exe
+G:\Git out\C#Siminar1\Zadachi\Kvadrat\bin\Debug\net6.0\Kvadrat.deps.json
+G:\Git out\C#Siminar1\Zadachi\Kvadrat\bin\Debug\net6.0\Kvadrat.runtimeconfig.json
+G:\Git out\C#Siminar1\Zadachi\Kvadrat\bin\Debug\net6.0\Kvadrat.dll
+G:\Git out\C#Siminar1\Zadachi\Kvadrat\bin\Debug\net6.0\Kvadrat.pdb
+G:\Git out\C#Siminar1\Zadachi\Kvadrat\obj\Debug\net6.0\Kvadrat.dll
+G:\Git out\C#Siminar1\Zadachi\Kvadrat\obj\Debug\net6.0\refint\Kvadrat.dll
+G:\Git out\C#Siminar1\Zadachi\Kvadrat\obj\Debug\net6.0\Kvadrat.pdb
+G:\Git out\C#Siminar1\Zadachi\Kvadrat\obj\Debug\net6.0\Kvadrat.genruntimeconfig.cache
+G:\Git out\C#Siminar1\Zadachi\Kvadrat\obj\Debug\net6.0\ref\Kvadrat.dll
