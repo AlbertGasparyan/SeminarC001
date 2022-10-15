@@ -1,0 +1,15 @@
+G:\Git out\C#Siminar1\Zadachi\Chicloiztreh\obj\Debug\net6.0\Chicloiztreh.csproj.AssemblyReference.cache
+G:\Git out\C#Siminar1\Zadachi\Chicloiztreh\obj\Debug\net6.0\Chicloiztreh.GeneratedMSBuildEditorConfig.editorconfig
+G:\Git out\C#Siminar1\Zadachi\Chicloiztreh\obj\Debug\net6.0\Chicloiztreh.AssemblyInfoInputs.cache
+G:\Git out\C#Siminar1\Zadachi\Chicloiztreh\obj\Debug\net6.0\Chicloiztreh.AssemblyInfo.cs
+G:\Git out\C#Siminar1\Zadachi\Chicloiztreh\obj\Debug\net6.0\Chicloiztreh.csproj.CoreCompileInputs.cache
+G:\Git out\C#Siminar1\Zadachi\Chicloiztreh\bin\Debug\net6.0\Chicloiztreh.exe
+G:\Git out\C#Siminar1\Zadachi\Chicloiztreh\bin\Debug\net6.0\Chicloiztreh.deps.json
+G:\Git out\C#Siminar1\Zadachi\Chicloiztreh\bin\Debug\net6.0\Chicloiztreh.runtimeconfig.json
+G:\Git out\C#Siminar1\Zadachi\Chicloiztreh\bin\Debug\net6.0\Chicloiztreh.dll
+G:\Git out\C#Siminar1\Zadachi\Chicloiztreh\bin\Debug\net6.0\Chicloiztreh.pdb
+G:\Git out\C#Siminar1\Zadachi\Chicloiztreh\obj\Debug\net6.0\Chicloiztreh.dll
+G:\Git out\C#Siminar1\Zadachi\Chicloiztreh\obj\Debug\net6.0\refint\Chicloiztreh.dll
+G:\Git out\C#Siminar1\Zadachi\Chicloiztreh\obj\Debug\net6.0\Chicloiztreh.pdb
+G:\Git out\C#Siminar1\Zadachi\Chicloiztreh\obj\Debug\net6.0\Chicloiztreh.genruntimeconfig.cache
+G:\Git out\C#Siminar1\Zadachi\Chicloiztreh\obj\Debug\net6.0\ref\Chicloiztreh.dll

@@ -1,0 +1,15 @@
+G:\Git out\C#Siminar1\Zadachi\CeloeChislo\obj\Debug\net6.0\CeloeChislo.csproj.AssemblyReference.cache
+G:\Git out\C#Siminar1\Zadachi\CeloeChislo\obj\Debug\net6.0\CeloeChislo.GeneratedMSBuildEditorConfig.editorconfig
+G:\Git out\C#Siminar1\Zadachi\CeloeChislo\obj\Debug\net6.0\CeloeChislo.AssemblyInfoInputs.cache
+G:\Git out\C#Siminar1\Zadachi\CeloeChislo\obj\Debug\net6.0\CeloeChislo.AssemblyInfo.cs
+G:\Git out\C#Siminar1\Zadachi\CeloeChislo\obj\Debug\net6.0\CeloeChislo.csproj.CoreCompileInputs.cache
+G:\Git out\C#Siminar1\Zadachi\CeloeChislo\bin\Debug\net6.0\CeloeChislo.exe
+G:\Git out\C#Siminar1\Zadachi\CeloeChislo\bin\Debug\net6.0\CeloeChislo.deps.json
+G:\Git out\C#Siminar1\Zadachi\CeloeChislo\bin\Debug\net6.0\CeloeChislo.runtimeconfig.json
+G:\Git out\C#Siminar1\Zadachi\CeloeChislo\bin\Debug\net6.0\CeloeChislo.dll
+G:\Git out\C#Siminar1\Zadachi\CeloeChislo\bin\Debug\net6.0\CeloeChislo.pdb
+G:\Git out\C#Siminar1\Zadachi\CeloeChislo\obj\Debug\net6.0\CeloeChislo.dll
+G:\Git out\C#Siminar1\Zadachi\CeloeChislo\obj\Debug\net6.0\refint\CeloeChislo.dll
+G:\Git out\C#Siminar1\Zadachi\CeloeChislo\obj\Debug\net6.0\CeloeChislo.pdb
+G:\Git out\C#Siminar1\Zadachi\CeloeChislo\obj\Debug\net6.0\CeloeChislo.genruntimeconfig.cache
+G:\Git out\C#Siminar1\Zadachi\CeloeChislo\obj\Debug\net6.0\ref\CeloeChislo.dll

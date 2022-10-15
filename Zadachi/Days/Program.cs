@@ -1,13 +1,8 @@
 ﻿Console.Clear();
-Console.Write("Введите число от 1 до 7 ");
-int number = Convert.ToInt32(Console.ReadLine());
+String [] days = {"Понедельник","Вторник","Среда","Четверг","Пятница","Суббота","Воскресенье"};
 
-if(number==1) Console.Write("Понедельник");
-if(number==2) Console.Write("Вторник");
-if(number==3) Console.Write("Среда");
-if(number==4) Console.Write("Четверг");
-if(number==5) Console.Write("Пятница");
-if(number==6) Console.Write("Суббота");
-if(number==7) Console.Write("Воскресенье");
-if(number<0) Console.Write("Нужно ввести число от 1 до 7!");
-if(number>7) Console.Write("Нужно ввести число от 1 до 7!");
+Console.WriteLine("Введите число от 1 до 7: ");
+
+int NumberOfDay = Convert.ToInt32(Console.ReadLine());
+
+Console.WriteLine(days[NumberOfDay-1]);
