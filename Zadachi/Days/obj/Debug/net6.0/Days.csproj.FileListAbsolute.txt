@@ -1,0 +1,15 @@
+G:\Git out\C#Siminar1\Zadachi\Days\bin\Debug\net6.0\Days.exe
+G:\Git out\C#Siminar1\Zadachi\Days\bin\Debug\net6.0\Days.deps.json
+G:\Git out\C#Siminar1\Zadachi\Days\bin\Debug\net6.0\Days.runtimeconfig.json
+G:\Git out\C#Siminar1\Zadachi\Days\bin\Debug\net6.0\Days.dll
+G:\Git out\C#Siminar1\Zadachi\Days\bin\Debug\net6.0\Days.pdb
+G:\Git out\C#Siminar1\Zadachi\Days\obj\Debug\net6.0\Days.csproj.AssemblyReference.cache
+G:\Git out\C#Siminar1\Zadachi\Days\obj\Debug\net6.0\Days.GeneratedMSBuildEditorConfig.editorconfig
+G:\Git out\C#Siminar1\Zadachi\Days\obj\Debug\net6.0\Days.AssemblyInfoInputs.cache
+G:\Git out\C#Siminar1\Zadachi\Days\obj\Debug\net6.0\Days.AssemblyInfo.cs
+G:\Git out\C#Siminar1\Zadachi\Days\obj\Debug\net6.0\Days.csproj.CoreCompileInputs.cache
+G:\Git out\C#Siminar1\Zadachi\Days\obj\Debug\net6.0\Days.dll
+G:\Git out\C#Siminar1\Zadachi\Days\obj\Debug\net6.0\refint\Days.dll
+G:\Git out\C#Siminar1\Zadachi\Days\obj\Debug\net6.0\Days.pdb
+G:\Git out\C#Siminar1\Zadachi\Days\obj\Debug\net6.0\Days.genruntimeconfig.cache
+G:\Git out\C#Siminar1\Zadachi\Days\obj\Debug\net6.0\ref\Days.dll
