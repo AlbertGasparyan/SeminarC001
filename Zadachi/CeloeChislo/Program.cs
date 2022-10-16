@@ -1,9 +1,10 @@
 ﻿Console.Clear();
-        Console.Write("Введите число задачи: ");
-        int number = Convert.ToInt32(Console.ReadLine()) * -1;
-        int count = 0;
-        while (count < number)
-            {
-                if (number < number * -1);
-                count++;
-            }
+Console.Write("Введите число задачи: ");
+int number = Convert.ToInt32(Console.ReadLine());
+int count = number * -1;
+
+while(count<=number)
+{
+    Console.Write($"{count},");
+    count++;
+}
