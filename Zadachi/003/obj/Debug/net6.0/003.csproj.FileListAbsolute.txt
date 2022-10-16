@@ -3,3 +3,13 @@ G:\Git out\C#Siminar1\Zadachi\003\obj\Debug\net6.0\003.GeneratedMSBuildEditorCon
 G:\Git out\C#Siminar1\Zadachi\003\obj\Debug\net6.0\003.AssemblyInfoInputs.cache
 G:\Git out\C#Siminar1\Zadachi\003\obj\Debug\net6.0\003.AssemblyInfo.cs
 G:\Git out\C#Siminar1\Zadachi\003\obj\Debug\net6.0\003.csproj.CoreCompileInputs.cache
+G:\Git out\C#Siminar1\Zadachi\003\bin\Debug\net6.0\003.exe
+G:\Git out\C#Siminar1\Zadachi\003\bin\Debug\net6.0\003.deps.json
+G:\Git out\C#Siminar1\Zadachi\003\bin\Debug\net6.0\003.runtimeconfig.json
+G:\Git out\C#Siminar1\Zadachi\003\bin\Debug\net6.0\003.dll
+G:\Git out\C#Siminar1\Zadachi\003\bin\Debug\net6.0\003.pdb
+G:\Git out\C#Siminar1\Zadachi\003\obj\Debug\net6.0\003.dll
+G:\Git out\C#Siminar1\Zadachi\003\obj\Debug\net6.0\refint\003.dll
+G:\Git out\C#Siminar1\Zadachi\003\obj\Debug\net6.0\003.pdb
+G:\Git out\C#Siminar1\Zadachi\003\obj\Debug\net6.0\003.genruntimeconfig.cache
+G:\Git out\C#Siminar1\Zadachi\003\obj\Debug\net6.0\ref\003.dll

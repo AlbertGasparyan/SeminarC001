@@ -1,11 +1,7 @@
-﻿int a = 4;
-int b = -3;
-int c = 7;
-ind index = 0;
+﻿Console.Clear();
+Console.Write("ВВедите число: ");
+int number = Convert.ToInt32(Console.ReadLine());
 
-
-for(index=0;a%2;1);
-for(index=0;b%2;1);
-for(index=0;c%2;1);
-
-Console.WriteLine(a,b,c);
+if(number%2==0) Console.WriteLine("Число чётное");
+else
+if(number%2==1) Console.WriteLine("Число нечётное");
